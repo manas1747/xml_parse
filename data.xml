@@ -1,0 +1,93 @@
+<collection shelf="Swapnil Yawale">
+    <cycle>
+        <gc-start id="2441" type="scavenge" contextid="2440">
+            <mem-info id="2442" free="33333" total="33333000">
+                <mem type="nursery" free="44444" total="44444000" percent="44">
+                    <mem type="allocate" free="55555" total="55555000" percent="55" />
+                    <mem type="survivor" free="66666" total="66666000" percent="66" />
+                    <mem type="survivor" free="88888" total="88888000" percent="88" />
+                </mem>
+                <mem type="tenure" free="44444" total="44444000" percent="44">
+                    <mem type="allocate" free="55555" total="55555000" percent="55" />
+                    <mem type="survivor" free="66666" total="66666000" percent="66" />
+                </mem>
+            </mem-info>
+        </gc-start>
+
+        <gc-end id="11112441" type="scavenge" contextid="11112440">
+            <mem-info id="11112442" free="111133333" total="111133333000">
+                <mem type="nursery" free="111144444" total="111144444000" percent="44">
+                    <mem type="allocate" free="111155555" total="111155555000" percent="55" />
+                    <mem type="survivor" free="111166666" total="111166666000" percent="66" />
+                </mem>
+                <mem type="tenure" free="111144444" total="111144444000" percent="44">
+                    <mem type="allocate" free="111155555" total="111155555000" percent="55" />
+                    <mem type="survivor" free="111166666" total="111166666000" percent="66" />
+                </mem>
+            </mem-info>
+        </gc-end>
+    </cycle>
+
+    <cycle>
+        <gc-start id="2441" type="scavenge" contextid="2440">
+            <mem-info id="2442" free="33333" total="33333000">
+                <mem type="nursery" free="44444" total="44444000" percent="44">
+                    <mem type="allocate" free="55555" total="55555000" percent="55" />
+                    <mem type="survivor" free="66666" total="66666000" percent="66" />
+                    <mem type="survivor" free="88888" total="88888000" percent="88" />
+                </mem>
+                <mem type="tenure" free="44444" total="44444000" percent="44">
+                    <mem type="allocate" free="55555" total="55555000" percent="55" />
+                    <mem type="survivor" free="66666" total="66666000" percent="66" />
+                </mem>
+            </mem-info>
+        </gc-start>
+
+        <gc-end id="11112441" type="scavenge" contextid="11112440">
+            <mem-info id="11112442" free="111133333" total="111133333000">
+                <mem type="nursery" free="111144444" total="111144444000" percent="44">
+                    <mem type="allocate" free="111155555" total="111155555000" percent="55" />
+                    <mem type="survivor" free="111166666" total="111166666000" percent="66" />
+                </mem>
+                <mem type="tenure" free="111144444" total="111144444000" percent="44">
+                    <mem type="allocate" free="111155555" total="111155555000" percent="55" />
+                    <mem type="survivor" free="111166666" total="111166666000" percent="66" />
+                </mem>
+            </mem-info>
+        </gc-end>
+    </cycle>
+</collection>
+<!-- 
+<movie title="Enemy Behind">
+   <type>War, Thriller</type>
+   <format>DVD</format>
+   <year>2003</year>
+   <rating>PG</rating>
+   <stars>10</stars>
+   <description>Talk about a US-Japan war</description>
+</movie>
+<movie title="Transformers">
+   <type>Anime, Science Fiction</type>
+   <format>DVD</format>
+   <year>1989</year>
+   <rating>R</rating>
+   <stars>8</stars>
+   <description>A schientific fiction</description>
+</movie>
+<movie title="Trigun">
+   <type>Anime, Action</type>
+   <format>DVD</format>
+   <episodes>4</episodes>
+   <rating>PG</rating>
+   <stars>10</stars>
+   <description>Vash the Stampede!</description>
+</movie>
+<movie title="Ishtar">
+   <type>Comedy</type>
+   <format>VHS</format>
+   <rating>PG</rating>
+   <stars>2</stars>
+   <description>Viewable boredom</description>
+</movie>
+</collection>
+-->
